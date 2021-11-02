@@ -8,6 +8,8 @@
 ehthumbs.db
 Thumbs.db
 
+*.zip
+
 # Jupyter files #
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
